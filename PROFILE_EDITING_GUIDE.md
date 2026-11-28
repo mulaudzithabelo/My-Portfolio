@@ -9,7 +9,7 @@ This website follows a reference-inspired **profile sidebar + structured content
 3. Featured Portfolios — two completed projects
 4. Career Snapshot — education and student research involvement
 5. Research Focus — detailed NLP and ABSA project
-6. My Skills — professional and technical skills
+6. Skills & Tools — programming, web development, tools and technologies, and soft skills
 7. Licenses & Certifications — seven verified-by-owner entries (credential URLs not yet supplied)
 8. Let's Connect — current LinkedIn URL
 

@@ -54,7 +54,7 @@ const navigation = [
   ["work", "Projects"],
   ["career", "Career"],
   ["research", "Research"],
-  ["skills", "Skills"],
+  ["skills", "Skills & Tools"],
   ["certifications", "Certifications"],
   ["gallery", "Gallery"],
   ["contact", "Contact"],
@@ -524,13 +524,13 @@ function Research() {
 }
 
 function Skills() {
-  const icons = [Code2, Database, Network];
+  const icons = [Code2, Network, Database, Sparkles];
   return (
     <section id="skills" className="portfolio-section">
       <SectionHeading
-        label="My skills"
-        title="The tools behind my work."
-        description="A snapshot of the technical tools and concepts reflected in my studies, projects, research and certifications."
+        label="Skills & tools"
+        title="Technical strengths and how I work."
+        description="Programming, web development, tools and technologies, and the soft skills I bring to collaborative work."
       />
       <div className="grid gap-4 sm:grid-cols-2 xl:grid-cols-3">
         {site.skills.map((group, index) => {
